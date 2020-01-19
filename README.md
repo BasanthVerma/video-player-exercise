@@ -1,6 +1,6 @@
 # video_player_exercise
 
-A mobile app using flutter to play a video and display transcript below the video.
+A mobile app using flutter with provider state management to play a video and display transcript below the video.
 
 ## Getting Started
 
